@@ -1,0 +1,12 @@
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Data\bin\Debug\netcoreapp3.1\CustomerCare.Data.deps.json
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Data\bin\Debug\netcoreapp3.1\CustomerCare.Data.dll
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Data\bin\Debug\netcoreapp3.1\CustomerCare.Data.pdb
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Data\obj\Debug\netcoreapp3.1\CustomerCare.Data.AssemblyInfoInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Data\obj\Debug\netcoreapp3.1\CustomerCare.Data.AssemblyInfo.cs
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Data\obj\Debug\netcoreapp3.1\CustomerCare.Data.csproj.CoreCompileInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Data\obj\Debug\netcoreapp3.1\CustomerCare.Data.dll
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Data\obj\Debug\netcoreapp3.1\CustomerCare.Data.pdb
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Data\bin\Debug\netcoreapp3.1\CustomerCare.Data.runtimeconfig.json
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Data\bin\Debug\netcoreapp3.1\CustomerCare.Data.runtimeconfig.dev.json
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Data\obj\Debug\netcoreapp3.1\CustomerCare.Data.genruntimeconfig.cache
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Data\obj\Debug\netcoreapp3.1\CustomerCare.Data.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+button {
+    text-transform: uppercase;
+    color: #FAFAFA;
+    max-width: 500px;
+    height: auto;
+    &.primary {
+        background-color: #2ecc71;
+        color: #FAFAFA;
+    }
+}

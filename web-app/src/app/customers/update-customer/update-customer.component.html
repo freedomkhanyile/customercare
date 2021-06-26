@@ -1,0 +1,67 @@
+<div class="title">
+  <h1>Update Customer <span>Update the customer details here.</span></h1>
+</div>
+<div class="form-container">
+  <form  *ngIf="formGroup"  [formGroup]="formGroup" (ngSubmit)="onSubmit(formGroup.value)" class="form">
+    <!-- First name form element-->
+
+    <div class="col-1-of-1">
+      <mat-form-field class="form-element">
+        <mat-select formControlName="customerType" placeholder="Select a customer type">
+          <mat-option value="Person">Person</mat-option>
+          <mat-option value="Organisation">Organisation</mat-option>
+          <mat-option value="Government">Government</mat-option>
+        </mat-select>
+        <mat-error *ngIf="!formGroup.controls['customerType'].valid && formGroup.controls['customerType'].touched">
+          Customer type is required
+        </mat-error>
+      </mat-form-field>
+    </div>
+    <div class="col-1-of-2">
+      <mat-form-field class="form-element">
+        <input matInput placeholder="Enter first name" formControlName="firstName">
+        <mat-error *ngIf="!formGroup.controls['firstName'].valid && formGroup.controls['firstName'].touched">
+          First name is required.
+        </mat-error>
+      </mat-form-field>
+      <mat-form-field class="form-element">
+        <input matInput placeholder="Enter last name" formControlName="lastName">
+        <mat-error *ngIf="!formGroup.controls['lastName'].valid && formGroup.controls['lastName'].touched">
+          Last name is required.
+        </mat-error>
+      </mat-form-field>
+    </div>
+    <div class="col-1-of-2">
+      <mat-form-field class="form-element">
+        <input matInput placeholder="Enter email address" formControlName="email">
+        <mat-error *ngIf="!formGroup.controls['email'].valid && formGroup.controls['email'].touched">
+          Email is required.
+        </mat-error>
+      </mat-form-field>
+      <mat-form-field class="form-element">
+        <input matInput placeholder="Enter cellphone number" formControlName="cellphone">
+        <mat-error *ngIf="!formGroup.controls['cellphone'].valid && formGroup.controls['cellphone'].touched">
+          Cellphone is required.
+        </mat-error>
+      </mat-form-field>
+    </div>
+    <div class="col-1-of-2">
+      <mat-form-field class="form-element">
+        <input matInput type="number" class="example-right-align" placeholder="Enter invoice amount"
+          formControlName="amountTotal">
+        <span matPrefix>R&nbsp;</span>
+        <mat-error *ngIf="!formGroup.controls['amountTotal'].valid && formGroup.controls['amountTotal'].touched">
+          Invoice amount is required.
+        </mat-error>
+      </mat-form-field>
+    </div>
+
+    <div class="form-element">
+      <button mat-raised-button type="submit" class="button primary" [disabled]="!formGroup.valid">
+        Update customer</button>
+    </div>
+    <div class="cancel">
+      <a routerLink="">Go back</a>
+    </div>
+  </form>
+</div>

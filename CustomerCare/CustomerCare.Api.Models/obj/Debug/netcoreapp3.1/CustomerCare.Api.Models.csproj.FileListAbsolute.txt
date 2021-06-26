@@ -1,0 +1,9 @@
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Api.Models\bin\Debug\netcoreapp3.1\CustomerCare.Api.Models.deps.json
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Api.Models\bin\Debug\netcoreapp3.1\CustomerCare.Api.Models.dll
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Api.Models\bin\Debug\netcoreapp3.1\CustomerCare.Api.Models.pdb
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Api.Models\obj\Debug\netcoreapp3.1\CustomerCare.Api.Models.AssemblyInfoInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Api.Models\obj\Debug\netcoreapp3.1\CustomerCare.Api.Models.AssemblyInfo.cs
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Api.Models\obj\Debug\netcoreapp3.1\CustomerCare.Api.Models.csproj.CoreCompileInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Api.Models\obj\Debug\netcoreapp3.1\CustomerCare.Api.Models.dll
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Api.Models\obj\Debug\netcoreapp3.1\CustomerCare.Api.Models.pdb
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Api.Models\obj\Debug\netcoreapp3.1\CustomerCare.Api.Models.csprojAssemblyReference.cache

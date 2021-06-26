@@ -1,0 +1,14 @@
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\bin\Debug\netcoreapp3.1\CustomerCare.Services.deps.json
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\bin\Debug\netcoreapp3.1\CustomerCare.Services.dll
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\bin\Debug\netcoreapp3.1\CustomerCare.Services.pdb
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\bin\Debug\netcoreapp3.1\CustomerCare.Api.Models.dll
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\bin\Debug\netcoreapp3.1\CustomerCare.Data.dll
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\bin\Debug\netcoreapp3.1\CustomerCare.Api.Models.pdb
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\bin\Debug\netcoreapp3.1\CustomerCare.Data.pdb
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\obj\Debug\netcoreapp3.1\CustomerCare.Services.csprojAssemblyReference.cache
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\obj\Debug\netcoreapp3.1\CustomerCare.Services.AssemblyInfoInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\obj\Debug\netcoreapp3.1\CustomerCare.Services.AssemblyInfo.cs
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\obj\Debug\netcoreapp3.1\CustomerCare.Services.csproj.CoreCompileInputs.cache
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\obj\Debug\netcoreapp3.1\CustomerCare.Services.csproj.CopyComplete
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\obj\Debug\netcoreapp3.1\CustomerCare.Services.dll
+C:\Users\Freedom.Khanyile\source\repos\CustomerCare\CustomerCare\CustomerCare.Services\obj\Debug\netcoreapp3.1\CustomerCare.Services.pdb

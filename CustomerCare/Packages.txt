@@ -1,0 +1,4 @@
+
+Install-Package Microsoft.EntityFrameworkCore -Version 3.1.16
+Install-Package Microsoft.EntityFrameworkCore.SqlServer -Version 3.1.16
+Install-Package FluentAssertions -Version 5.10.3

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.16">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CustomerCare.Api.Models\CustomerCare.Api.Models.csproj" />
+    <ProjectReference Include="..\CustomerCare.Data\CustomerCare.Data.csproj" />
+    <ProjectReference Include="..\CustomerCare.Services\CustomerCare.Services.csproj" />
+  </ItemGroup>
+
+
+</Project>
